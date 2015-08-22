@@ -1,0 +1,1 @@
+Matrixclust is a Matlab toolbox for fuzzy clustering of a symmetric matrix, typically the weighted adjacency matrix of an undirected network. Contact <a href='http://www.roslin.ed.ac.uk/tom-michoel/'>Tom Michoel</a> for further details.
